@@ -5,3 +5,6 @@ UTS
 - evd
 - kalku
 - bindo
+
+main:
+- b3 ke gilii
