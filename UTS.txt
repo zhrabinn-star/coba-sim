@@ -4,3 +4,4 @@ UTS
 - komstat
 - evd
 - kalku
+- bindo
